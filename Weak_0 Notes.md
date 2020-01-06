@@ -64,3 +64,5 @@ Control your surrounding!
 2. Spend 10 min watch something productive (Coding training or Business or clients)
 3. Spend 10 min reach out to someone who is interested in coding
 end**
+
+Trials2
