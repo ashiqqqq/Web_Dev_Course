@@ -20,3 +20,5 @@ This Course Aims to :
 16. Notes
 
 This is my first paid course and I hope when I look back I will see the value in the investment made today.
+
+hello
