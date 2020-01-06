@@ -10,12 +10,12 @@ This Course Aims to :
 7. Basic of HTML 
 8. Style Apps w Bootstrap + CSS
 9. JavaScript crash Course
-10.Python Dev W Pycharm 
-11.Django Crash course
-12.Git version control 
-13.Project
-14.How to promote yourself
-15.Profting w python
-16.Notes
+10. Python Dev W Pycharm 
+11. Django Crash course
+12. Git version control 
+13. Project
+14. How to promote yourself
+15. Profting w python
+16. Notes
 
 This is my first paid course and i hope when i look back i will see the value in the investment made today. 
